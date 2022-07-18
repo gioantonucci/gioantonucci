@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there! 👋
 
-<!--
-**gioantonucci/gioantonucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Im Giovanna and Im a Full Stack Developer 👩🏻‍💻
 
-Here are some ideas to get you started:
+## Languages and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript
+- HTML
+- CSS
+- React JS
+- Redux
+- Node js
+- Express
+- Sequelize
+- SQL
+
+# About me!
+🌍 Looking for a remote work as developer
+📚 Still learning about tech 
+🎨 I love graphic desing 
+
+# Lets connect ! 🤝🏻
+[Linkedin](https://www.linkedin.com/in/giovanna-antonucci/)
+
+giovannamantonucci@gmail.com
