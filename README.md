@@ -16,7 +16,7 @@
 - Git
 - Postman
 - Slack
-- Scrum
+
 
 # About me!
 🌍 Looking for a remote work as developer
