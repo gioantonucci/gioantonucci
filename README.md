@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-# I'm Giovanna and Im a Full Stack Developer 👩🏻‍💻 from La Plata, Buenos Aires, Argentina. 
+# I'm Giovanna and I'm a Full Stack Developer 👩🏻‍💻 from La Plata, Buenos Aires, Argentina. 
 
 ## Languages and tools:
 
