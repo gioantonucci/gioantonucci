@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [gioantonucci.vercel.app](gioantonucci.vercel.app)
 
-- 💬 Ask me about **design**
+- 💬 Ask me about **graphic design**
 
 - 📫 How to reach me **giovannamantonucci@gmail.com**
 
