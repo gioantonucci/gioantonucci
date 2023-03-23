@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **UX design**
 
-- 👨‍💻 All of my projects are available at [gioantonucci.vercel.app](gioantonucci.vercel.app)
+- 👨‍💻 All of my projects are available at [gioantonucci.vercel.app](https://gioantonucci.vercel.app)
 
 - 💬 Ask me about **graphic design**
 
